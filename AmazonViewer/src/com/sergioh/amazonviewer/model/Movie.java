@@ -3,11 +3,11 @@ package com.sergioh.amazonviewer.model;
 public class Movie {
 
 	int id;
-	String title;
+	public String title;
 	String gender;
 	String creator;
 	int duration;
-	short yeard;
+	public short yeard;
 	boolean viewed;
 	int timeViewed;
 	

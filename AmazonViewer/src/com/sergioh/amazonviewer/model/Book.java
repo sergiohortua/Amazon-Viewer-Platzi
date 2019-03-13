@@ -8,7 +8,7 @@ public class Book {
 	String title;
 	Date editionDate;
 	String editorial;
-	String [] autors;
+	String [] authors;
 	String isbn;
 	boolean readed;
 	int timeReaded;
